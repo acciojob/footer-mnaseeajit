@@ -1,1 +1,58 @@
 /* your code here */
+footer{
+	background-color : black;
+	color : white;
+}
+.bottom-details{
+	background-color : #2c303a;
+	color : white;
+}
+.link-boxes{
+	display : flex;
+	justify-content : space-between;
+
+}
+.text{
+	font-size : small;
+}
+.link-boxes>div{
+	padding : 20px;
+}
+.bottom-details{
+	display : flex;
+	justify-content : space-between;
+	padding-right : 20px;
+	padding-left : 20px;
+}
+p{
+	color : #adafb3;
+}
+.heading{
+	text-decoration : underline;
+}
+.logo_name{
+	padding-left : 20px;
+	font-size : 25px;
+}
+.logo-details{
+	padding-top : 20px;
+}
+img{
+	height : 30px;
+	width : 30px;
+	border-radius : 50%;
+}
+	.top{
+		display : flex;
+		justify-content : space-between;
+	}
+.media-icons{
+	padding-right : 20px;
+	padding-top : 20px;
+}
+
+	
+
+
+
+
