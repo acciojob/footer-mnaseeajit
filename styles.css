@@ -49,6 +49,7 @@ img{
 .media-icons{
 	padding-right : 20px;
 	padding-top : 20px;
+	display : flex;
 }
 
 	
